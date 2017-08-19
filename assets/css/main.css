@@ -1,0 +1,27 @@
+body{
+	margin:0%;
+	height:116%;
+	width:100%;
+	background-size:cover;
+}
+
+.mainbody{
+	height:100%;
+	width:100%;
+}
+
+.formholder{
+	height:100%;
+	width:50%;
+	padding-left:1%;
+	background: ;
+	float:left;
+	border-right:solid thin #000;
+}
+
+.chartholder{
+	height:100%;
+	width:50%;
+	float:left;
+	
+}
